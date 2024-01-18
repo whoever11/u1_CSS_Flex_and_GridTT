@@ -5,3 +5,9 @@ body {
 .user-info-container {
     margin-top: 3rem;
 }
+
+#button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
